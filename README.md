@@ -1,1 +1,1 @@
-"# Automa-o_zup" 
+Automação zup
